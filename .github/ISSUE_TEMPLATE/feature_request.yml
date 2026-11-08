@@ -1,0 +1,16 @@
+name: Feature request
+description: An idea for hYYa Encrypted Notes
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: Describe what you want to do, and why.
+    validations: { required: true }
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Device
+      multiple: true
+      options: [iPhone, iPad, Mac, Android]
