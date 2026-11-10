@@ -3,7 +3,7 @@
 Changes to hYYa Encrypted Notes & Sync, taken from each store release's "What's New".
 **→ [Download the latest version](https://hyya.com/hyya-encrypted-notes.html)**
 
-## 1.3.6 · iPhone & iPad 2026-11-09
+## 1.3.6 · iPhone & iPad 2026-11-09 · Mac 2026-11-10
 
 - General bug fixes and stability improvements.
 
