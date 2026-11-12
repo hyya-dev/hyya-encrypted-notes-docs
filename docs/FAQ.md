@@ -46,6 +46,9 @@ Up to 2 notes, with sync and every other feature, and no time limit. Deleting a 
 **What does Pro add?**
 Unlimited notes, as a one-time purchase. It is never a subscription. On the App Store, one purchase covers iPhone, iPad and Mac.
 
+**Do notes in the Widget folder count?**
+No. Notes in the Widget folder don't count toward your free limit. They appear on the Home Screen widget, so the app's lock does not cover them: keep private notes in other folders.
+
 **I already had more than 2 notes.**
 You keep every note and keep syncing. Only a new note past the limit asks for Pro.
 
@@ -55,7 +58,7 @@ You keep every note and keep syncing. Only a new note past the limit asks for Pr
 **Settings → Export all notes** writes every note as plain Markdown, with its pictures and files in a folder beside it. It is free and always will be.
 
 **What can I import?**
-Markdown, plain text, HTML, RTF and an Evernote export (`.enex`).
+Markdown (with the pictures and files beside it), plain text, HTML, RTF and an Evernote export (`.enex`). On iPhone, iPad and Android you can also share text, Markdown or a note from another app straight into hYYa Encrypted Notes from the Share sheet; it appears the next time you unlock the app.
 
 ## Troubleshooting
 
