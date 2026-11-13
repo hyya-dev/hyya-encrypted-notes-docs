@@ -20,7 +20,7 @@ Encrypted notes that only you can read, synced through your own iCloud or Google
 | 🧩 **Nothing you typed is lost** | Edits from two devices are merged. If a note changes in two places at once, both versions are kept |
 | ✍️ **Write the way you think** | Headings, lists and checklists as you type; folders, pins and colour labels; Arabic and English in the same note, each in its own direction |
 | 📎 **Attachments** | Pictures and files, encrypted exactly like the words around them |
-| 🗓️ **A note a day on your Home Screen** | A widget shows one note a day from your Widget folder, on iPhone, iPad and Android. Notes in that folder appear without the app's lock, so keep private notes in other folders |
+| 🗓️ **A note a day on your Home Screen** | A widget shows one note a day from your Widgets folder, on Android. Notes in that folder appear without the app's lock, so keep private notes in other folders |
 | 📤 **Always portable** | Export every note as plain Markdown, with its pictures and files beside it. Import Markdown (with its pictures and files), plain text, HTML, RTF or an Evernote export, or share text straight into the app |
 
 ## Platforms
