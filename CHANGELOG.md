@@ -3,9 +3,10 @@
 Changes to hYYa Encrypted Notes & Sync, taken from each store release's "What's New".
 **→ [Download the latest version](https://hyya.com/hyya-encrypted-notes.html)**
 
-## 1.3.8 · Android 2026-11-13 · iPhone & iPad 2026-11-14
+## 1.3.8 · Android 2026-11-13 · iPhone & iPad 2026-11-14 · Mac 2026-11-16
 
 - iPhone & iPad: a new widget brings a note from your Widgets folder to your Home Screen each day.
+- Mac: a new widget brings a note from your Widgets folder to your desktop each day.
 - General bug fixes and stability improvements.
 
 ## 1.3.7 · Android 2026-11-12

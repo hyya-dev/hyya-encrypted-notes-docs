@@ -47,7 +47,7 @@ Up to 2 notes, with sync and every other feature, and no time limit. Deleting a 
 Unlimited notes, as a one-time purchase. It is never a subscription. On the App Store, one purchase covers iPhone, iPad and Mac.
 
 **Do notes in the Widgets folder count?**
-No. Notes in the Widgets folder don't count toward your free limit. They appear on the Home Screen widget, so the app's lock does not cover them: keep private notes in other folders.
+No. Notes in the Widgets folder don't count toward your free limit. They appear on the Home Screen or desktop widget, so the app's lock does not cover them: keep private notes in other folders.
 
 **I already had more than 2 notes.**
 You keep every note and keep syncing. Only a new note past the limit asks for Pro.
