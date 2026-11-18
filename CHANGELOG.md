@@ -3,8 +3,9 @@
 Changes to hYYa Encrypted Notes & Sync, taken from each store release's "What's New".
 **→ [Download the latest version](https://hyya.com/hyya-encrypted-notes.html)**
 
-## 1.4.0 · Android 2026-11-17
+## 1.4.0 · Android 2026-11-17 · iPhone & iPad 2026-11-18
 
+- iPhone & iPad: checklists now show real checkboxes you can tick with a tap, and on iPad your folders, notes and the open note sit side by side.
 - Android: checklists now show real checkboxes you can tick with a tap, and on tablets your folders, notes and the open note sit side by side.
 - General bug fixes and stability improvements.
 
