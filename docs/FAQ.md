@@ -58,7 +58,7 @@ You keep every note and keep syncing. Only a new note past the limit asks for Pr
 **Settings → Export all notes** writes every note as plain Markdown, with its pictures and files in a folder beside it. It is free and always will be.
 
 **What can I import?**
-Markdown (with the pictures and files beside it), plain text, HTML, RTF and an Evernote export (`.enex`). On iPhone, iPad and Android you can also share text, Markdown or a note from another app straight into hYYa Encrypted Notes from the Share sheet; it appears the next time you unlock the app.
+Markdown (with the pictures and files beside it), plain text, HTML, RTF and an Evernote export (`.enex`). On iPhone, iPad and Android you can also share text, Markdown or a note from another app straight into hYYa Notes from the Share sheet; it appears the next time you unlock the app.
 
 ## Troubleshooting
 

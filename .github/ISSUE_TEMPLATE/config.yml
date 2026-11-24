@@ -3,7 +3,7 @@ contact_links:
   - name: Report a security problem
     url: https://github.com/hyya-dev/hyya-encrypted-notes-docs/blob/main/SECURITY.md
     about: Privately, by e-mail to our security team, please not as a public issue.
-  - name: Download hYYa Encrypted Notes & Sync
+  - name: Download hYYa Notes: Encrypted Sync
     url: https://hyya.com/hyya-encrypted-notes.html
     about: Get the app for iPhone, iPad, Mac and Android
   - name: Contact hYYa

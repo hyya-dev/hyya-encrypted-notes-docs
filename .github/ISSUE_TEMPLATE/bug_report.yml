@@ -1,5 +1,5 @@
 name: Bug report
-description: Something in hYYa Encrypted Notes isn't working right
+description: Something in hYYa Notes isn't working right
 labels: ["bug"]
 body:
   - type: markdown

@@ -2,7 +2,7 @@
 
 ## Report a security problem privately
 
-If you find a security problem in hYYa Encrypted Notes, such as a way to read notes without the key, a file that makes the app leak data, or a weakness in how notes are encrypted or synced, please tell us **privately** by **[e-mail to our security team](mailto:security@hyya.com?subject=hYYa%20Encrypted%20Notes%20security%20report)**, or through [hyya.com/contact.html](https://hyya.com/contact.html). In the app, **Settings → Report a Security Issue** opens the same e-mail.
+If you find a security problem in hYYa Notes, such as a way to read notes without the key, a file that makes the app leak data, or a weakness in how notes are encrypted or synced, please tell us **privately** by **[e-mail to our security team](mailto:security@hyya.com?subject=hYYa%20Encrypted%20Notes%20security%20report)**, or through [hyya.com/contact.html](https://hyya.com/contact.html). In the app, **Settings → Report a Security Issue** opens the same e-mail.
 
 **Please don't open a public issue for it.** Issues here are public the moment they are filed.
 

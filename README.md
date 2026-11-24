@@ -1,4 +1,4 @@
-# hYYa Encrypted Notes & Sync
+# hYYa Notes: Encrypted Sync
 
 **Your notes. Your iCloud. Your Google Drive.**
 
@@ -48,7 +48,7 @@ Found a bug or have an idea? **[Open an issue](https://github.com/hyya-dev/hyya-
 
 Found a **security** problem? Please don't open an issue. Tell us privately, as **[SECURITY.md](SECURITY.md)** explains.
 
-> This repository holds hYYa Encrypted Notes' public documentation and issue tracker.
+> This repository holds hYYa Notes' public documentation and issue tracker.
 > The app is a commercial product; its source is not published here.
 
 ---

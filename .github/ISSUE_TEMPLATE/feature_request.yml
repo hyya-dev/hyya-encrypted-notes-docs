@@ -1,5 +1,5 @@
 name: Feature request
-description: An idea for hYYa Encrypted Notes
+description: An idea for hYYa Notes
 labels: ["enhancement"]
 body:
   - type: textarea
