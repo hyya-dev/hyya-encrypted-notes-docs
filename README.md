@@ -2,7 +2,7 @@
 
 **Your notes. Your iCloud. Your Google Drive.**
 
-Encrypted notes that only you can read, synced through your own iCloud or Google Drive, on iPhone, iPad, Mac and Android.
+Encrypted notes that only you can read. They sync between iPhone, iPad, Mac and Android, through your own iCloud or Google Drive.
 
 **→ [Download and full details at hyya.com/hyya-encrypted-notes.html](https://hyya.com/hyya-encrypted-notes.html)**
 
